@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Zakaria Latif</h2>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=C9D1CC&width=430&height=65&lines=An+Enthusiastic+Learner;Passionate+at+Learning+New+Technologies;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=C9D1CC&width=430&height=35&lines=An+Enthusiastic+Learner;Passionate+at+Learning+New+Technologies;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 ### About Me 🚀
@@ -12,12 +12,11 @@
 -   👯 I’m looking to collaborate on ... a Tech project
 -   🤔 I’m looking for help with ... DevOps
 -   💬 Ask me about ... web dev
--   📫 How to reach me: ...  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logColor=2465B0&link=(https://www.linkedin.com/in/zakaria-latif-44bba11b7/))](https://www.linkedin.com/in/zakaria-latif-44bba11b7/)
+-   📫 How to reach me: ... [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&link=(https://www.linkedin.com/in/zakaria-latif-44bba11b7/))](https://www.linkedin.com/in/zakaria-latif-44bba11b7/)
 -   😄 Pronouns: ... He/Him
 -   ⚡ Fun fact: ... Yeah, I'm Moroccan
 
-
-### Tech Stack 🛠
+### Languages and Tools 🛠
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=flat&logo=typescript)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
